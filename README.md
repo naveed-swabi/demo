@@ -1,3 +1,3 @@
 # demo
 this is demo of ecommerce
-author-naveed ahmad
+author-naveed 
